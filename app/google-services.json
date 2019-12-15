@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "300612774208",
+    "firebase_url": "https://sweets-35fab.firebaseio.com",
+    "project_id": "sweets-35fab",
+    "storage_bucket": "sweets-35fab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300612774208:android:ab89b3c84bf4310812b2a5",
+        "android_client_info": {
+          "package_name": "com.marix.sweet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300612774208-hi5k28ggrv9d8j2jq4lpr30vrf34flvp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marix.sweet",
+            "certificate_hash": "c12ff7c2dda0d668ddcde68ce106b15ca5ce4398"
+          }
+        },
+        {
+          "client_id": "300612774208-6ai0hal98f9jb6ggr4p7nm7o3afdject.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuPEo-dDWih9CfOKIpEmSBtfWTjU5TI8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300612774208-6ai0hal98f9jb6ggr4p7nm7o3afdject.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="todo">TODO</string>
+    <string name="sendButtonText">Отправить заказ</string>
+    <string name="doskSize">Длинна деки</string>
+    <string name="podsh">Подшипники</string>
+    <string name="wheels">Колеса</string>
+    <string name="dekaType">Материал деки</string>
+</resources>
